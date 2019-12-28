@@ -1,15 +1,17 @@
-Install Curl
+*Guide for installing Node on linux*
+
+Install Curl\
 `$ sudo apt-get install curl`
 
-Add PPA to system
-The version number 13 can be switched with other versions
+Add PPA to system\
+The version number 13 can be switched with other versions\
 `$ curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -`
 
-Install node
+Install node\
 `$ sudo apt-get install nodejs`
 
-Check Node version
+Check Node version\
 `$ node -v` 
 
-Check NPM version
+Check NPM version\
 `$ npm -v` 
