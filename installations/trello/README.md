@@ -20,11 +20,12 @@ Set the x flag on the desktop entry. This enables execution\
 
 
 *Errors*
-Fixes for some common errors
-- trello: error while loading shared libraries: libgconf-2.so.4: cannot open shared object file: No such file or directory
-Install libgconf-2-4
+
+Fixes for some common errors\
+- trello: error while loading shared libraries: libgconf-2.so.4: cannot open shared object file: No such file or directory\
+Install libgconf-2-4\
 `$ sudo apt-get install libgconf-2-4`
 
-- Failed to load module "canberra-gtk-module"
-Install module
+- Failed to load module "canberra-gtk-module"\
+Install module\
 `$ sudo apt-get install libcanberra-gtk-module`
