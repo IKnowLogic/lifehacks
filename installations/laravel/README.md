@@ -21,3 +21,6 @@ Where pid is the pid of the process
 
 Clear cache, this sometimes fixes problems when new stuff is implemented\
 `$ php artisan config:cache`
+
+Sometimes composer does not register when we manually rename files, which leads to errors\
+`$ composer dump-autoload`
