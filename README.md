@@ -3,4 +3,7 @@
 Repository containing instructions for some of all.
 
 Examples:
-Install latest version of node
+- Install Node
+- Install Trello
+- Install Redshift
+- Install Laravel
