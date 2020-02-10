@@ -10,7 +10,7 @@ Move the downloaded file to the new directory, may require sudo. Remember to cho
 `$ sudo mv /home/$USER/Downloads/jre-* /usr/java/`
 
 Unpach the file\
-`$ sudo zxvf jre-*`
+`$ sudo tar zxvf jre-*`
 
 Add $JAVA_HOME to your path variables, remember to correct jre version\
 Add the line `export JAVA_HOME=/usr/java/jre*` to your bashrc file
