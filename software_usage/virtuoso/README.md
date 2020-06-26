@@ -2,12 +2,12 @@
 
 ## Nice iSQL commands\
 When deleting large graphs, first change logging\
-`log_enable(3,1);`
+`log_enable(3,1);`\
 Then clear graph with\
 `SPARQL CLEAR GRAPH  <graph-name>;`\
 
 Always remember to run the loader and create checkpoint after insertion and deletion\
-`rdf_loader_run ();`
+`rdf_loader_run ();`\
 `checkpoint;`
 
 
