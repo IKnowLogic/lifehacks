@@ -2,8 +2,9 @@
 
 Repository containing instructions for some of all.
 
-Examples:
-- Install Node
-- Install Trello
-- Install Redshift
-- Install Laravel
+Installation Examples:
+- Node
+- Trello
+- Redshift
+- Laravel
+- Python (Specific versions)
